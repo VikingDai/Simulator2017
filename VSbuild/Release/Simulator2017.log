@@ -1,4 +1,74 @@
-﻿  MAIN.cpp
+﻿  bitmap.c
+..\src\bitmap.c(103): warning C4018: '<': signed/unsigned mismatch
+..\src\bitmap.c(42): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  CollisionSystem.cpp
+  CollisionThread.cpp
+..\src\CollisionThread.cpp(46): warning C4101: 'v': unreferenced local variable
+  DrawFunc.cpp
+..\src\DrawFunc.cpp(82): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\DrawFunc.cpp(83): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\DrawFunc.cpp(84): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\DrawFunc.cpp(138): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\DrawFunc.cpp(142): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\DrawFunc.cpp(170): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Geometry.cpp
+  GlutVizualisation.cpp
+..\src\GlutVizualisation.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\src\GlutVizualisation.cpp(111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+..\src\GlutVizualisation.cpp(182): warning C4305: '=': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(197): warning C4305: '=': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+..\src\GlutVizualisation.cpp(434): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(435): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(436): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(437): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(486): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(487): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(488): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(489): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(495): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(496): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(497): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(498): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(504): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(505): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(506): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(507): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(527): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(529): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(537): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(538): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(539): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(540): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(549): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(550): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(551): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(552): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+..\src\GlutVizualisation.cpp(592): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(593): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(678): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(725): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(726): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(749): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\src\GlutVizualisation.cpp(760): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(765): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(774): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(775): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(776): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(882): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(923): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\GlutVizualisation.cpp(928): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\GlutVizualisation.cpp(933): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\src\GlutVizualisation.cpp(971): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+..\src\GlutVizualisation.cpp(979): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Grid.cpp
+  GridCollision.cpp
+  MAIN.cpp
 ..\src\MAIN.cpp(207): warning C4305: 'argument': truncation from 'double' to 'float'
 ..\src\MAIN.cpp(208): warning C4305: 'argument': truncation from 'double' to 'float'
 ..\src\MAIN.cpp(218): warning C4101: 'sleeptime': unreferenced local variable
@@ -7,11 +77,49 @@
 ..\src\MAIN.cpp(220): warning C4101: 'optdT': unreferenced local variable
 ..\src\MAIN.cpp(217): warning C4101: 'atemp': unreferenced local variable
 ..\src\MAIN.cpp(192): warning C4101: 'startTime': unreferenced local variable
+  MapHandler.cpp
+  matrix.cpp
+  Model.cpp
+  ObstacleMap.cpp
+  OptimalTrajectory.cpp
+..\src\OptimalTrajectory.cpp(40): warning C4018: '<': signed/unsigned mismatch
+..\src\OptimalTrajectory.cpp(82): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+..\src\OptimalTrajectory.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\src\OptimalTrajectory.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  planner.cpp
+..\src\planner.cpp(76): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+..\src\planner.cpp(987): warning C4018: '<': signed/unsigned mismatch
+..\src\planner.cpp(1001): warning C4018: '<': signed/unsigned mismatch
+..\src\planner.cpp(1099): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  PlannerTypes.cpp
+  RTError.cpp
+  Simulator.cpp
+  Trajectory.cpp
+..\src\Trajectory.cpp(86): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+  WerlingPoints.cpp
+..\src\WerlingPoints.cpp(33): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+..\src\WerlingPoints.cpp(35): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+..\src\WerlingPoints.cpp(37): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+..\src\WerlingPoints.cpp(39): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
   Generating code
-c:\users\tnybe\tsrt10\racetrack\simulator\simulator2017\src\main.cpp(185): warning C4700: uninitialized local variable 'controlledCarID' used
-  53 of 1090 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
-    4 functions were new in current compilation
-    77 functions had inline decision re-evaluated but remain unchanged
+c:\users\tnybe\tsrt10\new folder\simulator2017\src\main.cpp(185): warning C4700: uninitialized local variable 'controlledCarID' used
+  1068 of 1090 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    19 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\racetrack\Simulator\Simulator2017\build\Release\Simulator2017.exe
-  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\racetrack\Simulator\Simulator2017\build\Release\Simulator2017.pdb (Full PDB)
+  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\New folder\Simulator2017\VSbuild\Release\Simulator2017.exe
+  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\New folder\Simulator2017\VSbuild\Release\Simulator2017.pdb (Full PDB)
