@@ -1,0 +1,17 @@
+﻿  MAIN.cpp
+..\src\MAIN.cpp(207): warning C4305: 'argument': truncation from 'double' to 'float'
+..\src\MAIN.cpp(208): warning C4305: 'argument': truncation from 'double' to 'float'
+..\src\MAIN.cpp(218): warning C4101: 'sleeptime': unreferenced local variable
+..\src\MAIN.cpp(192): warning C4101: 'finishTime': unreferenced local variable
+..\src\MAIN.cpp(218): warning C4101: 'index': unreferenced local variable
+..\src\MAIN.cpp(220): warning C4101: 'optdT': unreferenced local variable
+..\src\MAIN.cpp(217): warning C4101: 'atemp': unreferenced local variable
+..\src\MAIN.cpp(192): warning C4101: 'startTime': unreferenced local variable
+  Generating code
+c:\users\tnybe\tsrt10\racetrack\simulator\simulator2017\src\main.cpp(185): warning C4700: uninitialized local variable 'controlledCarID' used
+  53 of 1090 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    77 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\racetrack\Simulator\Simulator2017\build\Release\Simulator2017.exe
+  Simulator2017.vcxproj -> C:\Users\tnybe\TSRT10\racetrack\Simulator\Simulator2017\build\Release\Simulator2017.pdb (Full PDB)
