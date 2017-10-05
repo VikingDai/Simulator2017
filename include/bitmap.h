@@ -9,7 +9,7 @@
 
 #ifdef WIN32
 
-#include <freeglut.h>
+#include <GL/freeglut.h>
 #include <windows.h>
 #include <wingdi.h>
 

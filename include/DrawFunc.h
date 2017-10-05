@@ -9,9 +9,9 @@
 
 #else 
 
-#include <freeglut.h>
-#include <gl.h>
-#include <glu.h>
+#include <GL/freeglut.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
 
 #endif
 
